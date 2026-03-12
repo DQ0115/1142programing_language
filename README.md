@@ -7,7 +7,7 @@
 # 作業連結區
 
 - [作業1_part1](https://github.com/DQ0115/1142programing_language/blob/main/HW1_part1.ipynb)
-- [作業1]()
+- [作業1_part2]()
 - [作業2]()
 - [作業3]()
 - [作業4]()
